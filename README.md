@@ -7,5 +7,5 @@
 dween/dween is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<i>Resume: <a href="https://tinyurl.com/richardpennenga-resume-3-2">here</a><i>
-<img alt="EarnestBear" src="https://github.com/user-attachments/assets/46bf23d3-9567-4b6c-915e-a4676296e030" />
+- <i>Resume: <a href="https://tinyurl.com/richardpennenga-resume-3-2">here</a><i>
+- <img width="96" height="96" alt="EarnestBear logo 96x96" src="https://github.com/user-attachments/assets/34f5b817-d8dc-4f7b-9dfe-80bda9ca117a" />
